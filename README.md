@@ -10,7 +10,7 @@ Resources used: Python, pandas, seaborn, matplotlib, tensorflow
 Loss: 0.07141\
 Accuracy: 0.98009
 
-### Cats and dogs classification by audio
+### Audio classification cats and dogs
 Data source: [kaggle.com/mmoreaux/audio-cats-and-dogs](https://www.kaggle.com/mmoreaux/audio-cats-and-dogs)\
 Resources used: Python, librosa, sklearn, pandas, numpy, matplotlib, tensorflow, keras
 
